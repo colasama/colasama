@@ -1,5 +1,10 @@
 ### 🥷 DOMO、Colanns desu.
 
+<img
+  align=right
+  src="https://github-readme-stats.vercel.app/api?username=colasama&show_icons=true&hide=contribs&theme=shadow_green&hide_title=true&hide_rank=true"
+/>
+
 Hi! I'm Colanns (/ˈkɒlənz/), but you can also call me ***CC***.  
 
 Currently building something cool 🥰! 

@@ -6,7 +6,6 @@
 />
 
 Hi! I'm Colanns (/ˈkɒlənz/), but you can also call me ***CC***.  
-
 Currently building something cool 🥰! 
 
 #### 📫 How to reach me

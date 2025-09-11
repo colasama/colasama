@@ -14,3 +14,4 @@ Currently building something cool 🥰!
 - Email [mycolands@gmail.com](mailto:mycolands@gmail.com)
 - Telegram [@Colanns](https://t.me/colanns)
 - Twitter [@ceramisa](https://twitter.com/ceramisa)
+- Afdian [@Colanns](https://afdian.com/a/colanns)
